@@ -13,16 +13,16 @@ Below is a figure showing the empirical PSFs (first row) from this work compared
 ![PSF figures](compare_PSFs_emp_aniano11.png)
 
 ## The FITS files containing the PSFs:
-- GALEX/FUV: psf_emp_galex_fuv.fits
-- GALEX/NUV: psf_emp_galex_nuv.fits
-- SDSS/u: psf_emp_sdss_u.fits
-- SDSS/g: psf_emp_sdss_g.fits
-- SDSS/r: psf_emp_sdss_r.fits
-- SDSS/i: psf_emp_sdss_i.fits
-- SDSS/z: psf_emp_sdss_z.fits
-- 2MASS/J: psf_emp_2mass_j.fits
-- 2MASS/H: psf_emp_2mass_h.fits
-- 2MASS/Ks: psf_emp_2mass_k.fits
+- GALEX/FUV: psf_emp_galex_fuv.fits.gz
+- GALEX/NUV: psf_emp_galex_nuv.fits.gz
+- SDSS/u: psf_emp_sdss_u.fits.gz
+- SDSS/g: psf_emp_sdss_g.fits.gz
+- SDSS/r: psf_emp_sdss_r.fits.gz
+- SDSS/i: psf_emp_sdss_i.fits.gz
+- SDSS/z: psf_emp_sdss_z.fits.gz
+- 2MASS/J: psf_emp_2mass_j.fits.gz
+- 2MASS/H: psf_emp_2mass_h.fits.gz
+- 2MASS/Ks: psf_emp_2mass_k.fits.gz
 
 ## How to acknowledge
 If you use the empirical PSFs from this repository for your publication, please cite: Abdurro'uf et al. (2020) 
