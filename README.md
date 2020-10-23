@@ -9,6 +9,9 @@ and cutouts for the stars are obtained using [extract_stars](https://photutils.r
 Visual inspection is done to remove "bad stars" (such as multiple stars in one cutout and saturated star). Then effective PSFs are constructed using [EPSFBuilder](https://photutils.readthedocs.io/en/stable/api/photutils.psf.EPSFBuilder.html).
 The number of stars cutouts used for producing the PSFs of FUV, NUV, u, g, r, i, z, J, H, and Ks are 51, 106, 103, 123, 143, 170, 268, 102, 118, and 94, respectively. 
 
+Below is a figure showing the empirical PSFs (first row) from this work compared to the PSFs from [Aniano et al. (2011)](https://ui.adsabs.harvard.edu/abs/2011PASP..123.1218A/abstract), which are availabe [here](https://www.astro.princeton.edu/~ganiano/Kernels/Ker_2018/). 
+![PSF figures](compare_PSFs_emp_aniano11.png)
+
 ## The FITS files containing the PSFs:
 - GALEX/FUV: psf_emp_galex_fuv.fits
 - GALEX/NUV: psf_emp_galex_nuv.fits
