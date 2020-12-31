@@ -25,4 +25,4 @@ Below is a figure showing the empirical PSFs (first row) from this work compared
 - 2MASS/Ks: psf_emp_2mass_k.fits.gz
 
 ## How to acknowledge
-If you use the empirical PSFs from this repository for your publication, please cite: Abdurro'uf et al. (2020) 
+If you use the empirical PSFs from this repository for your publication, please cite: Abdurro'uf et al. (2020, submitted) 
